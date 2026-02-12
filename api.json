@@ -1,0 +1,381 @@
+{
+  "category": "SHAPESHIFTER",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/encantado",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "encantado",
+    "name": "Encantado",
+    "aliases": [
+      {
+        "name": "Boto",
+        "language": "Portuguese",
+        "region": "Amazon",
+        "meaning": "River dolphin"
+      }
+    ],
+    "category": "SHAPESHIFTER",
+    "subcategory": "Dolphin-people",
+    "tags": [
+      "brazilian",
+      "amazonian",
+      "shapeshifter",
+      "dolphin",
+      "seducer",
+      "underwater-kingdom",
+      "party-goer",
+      "pink-dolphin"
+    ],
+    "status": "active",
+    "description": {
+      "summary": "Brazilian Amazon dolphin-people shapeshifters. Pink river dolphins transform into beautiful humans at night, wear hats to hide blowholes, seduce people at parties, and lure victims to their underwater kingdom called Encante.",
+      "full": "The Encantado are shapeshifting beings from Brazilian Amazon folklore who live as dolphins (usually pink river dolphins) but transform into beautiful humans at night. In human form, they appear as handsome men or beautiful women who are perfect dancers and party-goers, but they must always wear hats to hide their blowholes. They emerge from rivers during festivals and parties to seduce humans, with male Encantado often impregnating women and female Encantado seducing men. They may lure people to their underwater kingdom known as Encante. Unexplained pregnancies in Amazonian communities are traditionally blamed on Encantado, and children born under mysterious circumstances may be said to bear the Encantado's mark. Out of respect, river dolphins should never be called 'dolphins' but rather 'boto,' and it is dangerous to make eye contact with them during festivals. The Encantado represent the mystery and allure of the Amazon rivers and embody both indigenous and Portuguese cultural influences."
+    },
+    "etymology": {
+      "origin": "Portuguese 'encantado' meaning 'enchanted one'",
+      "meaning": "Enchanted being; one who enchants or is enchanted",
+      "first_use": "Colonial/post-colonial Amazon region"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "SHAPESHIFTER",
+      "type": "Animal-to-human transformer",
+      "subtype": "Dolphin-people",
+      "variant": "Amazonian/Brazilian"
+    },
+    "related_phenomena": [
+      {
+        "id": "selkie",
+        "name": "Selkie",
+        "relationship": "similar",
+        "description": "Celtic seal-people shapeshifters"
+      },
+      {
+        "id": "kitsune",
+        "name": "Kitsune",
+        "relationship": "similar",
+        "description": "Japanese fox shapeshifters"
+      },
+      {
+        "id": "each-uisge",
+        "name": "Each-uisge",
+        "relationship": "similar",
+        "description": "Scottish water horse that transforms and drowns victims"
+      },
+      {
+        "id": "siren",
+        "name": "Siren",
+        "relationship": "similar",
+        "description": "Water beings who seduce humans"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "physical": {
+      "dolphin_form": {
+        "species": "Pink river dolphin (Inia geoffrensis) usually, but any river dolphin",
+        "coloration": ["pink", "gray"],
+        "features": "Standard river dolphin appearance"
+      },
+      "human_form": {
+        "height": {
+          "min": 1.6,
+          "max": 1.85,
+          "unit": "meters",
+          "confidence": "medium"
+        },
+        "features": [
+          {
+            "feature": "Beauty",
+            "description": "Handsome men or beautiful women",
+            "frequency": "always"
+          },
+          {
+            "feature": "Hat",
+            "description": "Must always wear hat to cover blowhole",
+            "frequency": "always"
+          },
+          {
+            "feature": "Dancing ability",
+            "description": "Perfect dancers, life of the party",
+            "frequency": "always"
+          },
+          {
+            "feature": "Blowhole",
+            "description": "Dolphin blowhole on top of head (must be hidden)",
+            "frequency": "always"
+          },
+          {
+            "feature": "Charm",
+            "description": "Extremely charming and seductive",
+            "frequency": "always"
+          }
+        ],
+        "morphology": "Beautiful human form, perfectly proportioned, but must keep head covered to hide blowhole"
+      }
+    },
+    "abilities": [
+      {
+        "ability": "Shape-shifting",
+        "description": "Transform from dolphin to human at night",
+        "frequency": "nightly",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Seduction",
+        "description": "Irresistible charm and beauty, especially at parties",
+        "frequency": "always",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Perfect dancing",
+        "description": "Outstanding dancing skills that attract attention",
+        "frequency": "always",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Underwater living",
+        "description": "Lives in underwater kingdom (Encante)",
+        "frequency": "always",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Luring victims",
+        "description": "Can lure humans to underwater kingdom",
+        "frequency": "occasional",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Impregnation",
+        "description": "Male Encantado can impregnate human women",
+        "frequency": "common",
+        "evidence_level": "folklore"
+      }
+    ],
+    "behavior": {
+      "activity_period": "night (human form)",
+      "disposition": "seductive, mischievous",
+      "social_structure": "community (underwater kingdom)",
+      "habitat_preference": [
+        "rivers",
+        "underwater kingdom (Encante)",
+        "human parties and festivals"
+      ],
+      "diet": "Unknown in human form; fish as dolphin",
+      "patterns": [
+        "Transform at night for parties and festivals",
+        "Seek out human gatherings",
+        "Seduce humans, especially at celebrations",
+        "Return to river by dawn",
+        "May impregnate women or lure people underwater",
+        "Always wear hats to hide blowhole"
+      ]
+    }
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Amazon river basin in Brazil and neighboring countries. Wherever pink river dolphins are found.",
+      "continents": ["South America"],
+      "countries": ["Brazil", "Peru", "Colombia", "Venezuela"],
+      "regions": [
+        "Amazon River basin",
+        "Brazilian Amazon",
+        "Rio Negro",
+        "Rio Solimões",
+        "Tributaries throughout Amazon region"
+      ]
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Colonial era",
+        "circa": true,
+        "source": "Amazonian oral traditions with indigenous and Portuguese influences"
+      },
+      "peak_activity_periods": [
+        {
+          "period": "Traditional to present",
+          "description": "Active in Amazonian folklore from colonial times to present"
+        },
+        {
+          "period": "Festival times",
+          "description": "Most active during parties and celebrations"
+        }
+      ],
+      "seasonal_patterns": "More active during festival seasons and celebrations"
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "Brazilian Amazon folklore, blending indigenous Amazonian beliefs with Portuguese colonial influences",
+      "earliest_accounts": "Oral traditions from colonial and post-colonial periods",
+      "folklore_connections": "Connected to global shapeshifter traditions and water spirit folklore"
+    },
+    "timeline": [
+      {
+        "date": "Pre-colonial",
+        "event": "Indigenous river dolphin beliefs",
+        "significance": "Indigenous Amazonians had spiritual relationships with river dolphins",
+        "source": "Indigenous oral traditions"
+      },
+      {
+        "date": "Colonial era",
+        "event": "Portuguese influence",
+        "significance": "Portuguese 'encantado' concept merges with indigenous beliefs",
+        "source": "Cultural synthesis"
+      },
+      {
+        "date": "Modern era",
+        "event": "Living folklore",
+        "significance": "Remains active part of Amazonian culture and dolphin conservation",
+        "source": "Contemporary Amazonian culture"
+      }
+    ],
+    "modern_era": "The Encantado remains deeply embedded in Amazonian culture. Unexplained pregnancies are still sometimes attributed to Encantado, and respect for river dolphins ('boto') continues. The legend plays a role in dolphin conservation, as harming a boto is considered dangerous and disrespectful."
+  },
+
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0,
+      "date_range": {
+        "earliest": "Traditional",
+        "latest": "Traditional"
+      }
+    },
+    "notable": [],
+    "database_path": null
+  },
+
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+
+  "theories": {
+    "paranormal": [
+      {
+        "name": "Spiritual entity",
+        "description": "Genuine shapeshifting beings from Amazonian cosmology",
+        "proponents": ["Traditional Amazonian communities"],
+        "evidence_cited": ["Consistent folklore", "Unexplained pregnancies", "Dolphin behavior"]
+      }
+    ],
+    "scientific": [],
+    "skeptical": [
+      {
+        "name": "Social explanation for pregnancy",
+        "description": "Cultural mechanism to explain illegitimate pregnancies without shame",
+        "proponents": ["Anthropologists", "Sociologists"],
+        "evidence_cited": ["Cross-cultural pregnancy attribution myths", "Social function of folklore"]
+      },
+      {
+        "name": "Cultural synthesis myth",
+        "description": "Blend of indigenous river dolphin reverence with Portuguese 'enchanted' concepts",
+        "proponents": ["Folklorists", "Cultural historians"],
+        "evidence_cited": ["Indigenous and colonial cultural elements", "Similar water shapeshifter myths globally"]
+      },
+      {
+        "name": "Conservation folklore",
+        "description": "Stories that promote protection of endangered river dolphins",
+        "proponents": ["Conservationists"],
+        "evidence_cited": ["Respect for 'boto' protects dolphins", "Taboo against harming dolphins"]
+      }
+    ]
+  },
+
+  "cultural": {
+    "folklore": {
+      "traditions": [
+        "Amazonian oral storytelling",
+        "Indigenous river dolphin beliefs",
+        "Portuguese 'encantado' traditions",
+        "Festival and party lore"
+      ],
+      "stories": [
+        "Handsome stranger at party is revealed to be Encantado when hat falls off",
+        "Women become pregnant by mysterious lover who disappears by dawn",
+        "People lured to underwater kingdom never return",
+        "Never make eye contact with dolphins during festivals"
+      ],
+      "beliefs": "The Encantado are real beings deserving respect. Never call river dolphins 'dolphins' - use 'boto' instead. Unexplained pregnancies are often attributed to Encantado seduction."
+    },
+    "indigenous": {
+      "cultures": [
+        "Various Amazonian indigenous groups",
+        "Caboclo (mixed indigenous-European) communities",
+        "Brazilian Amazon populations"
+      ],
+      "significance": "Central to Amazonian cultural identity; promotes respect for river dolphins; provides social explanation for complex situations",
+      "sensitivity_note": "The Encantado is part of living Amazonian culture. These are not merely stories but active folklore that serves social and conservation functions.",
+      "respect_guidelines": "Acknowledge Amazonian cultural ownership. Understand the social function of these stories. Respect river dolphin conservation connected to folklore."
+    },
+    "popular_culture": {
+      "literature": [
+        "Brazilian literature and poetry",
+        "Amazon folklore collections"
+      ],
+      "film_tv": [
+        "Brazilian films and television",
+        "Documentaries on Amazon culture"
+      ],
+      "games": [],
+      "other": [
+        "Brazilian art",
+        "Amazonian cultural festivals",
+        "Dolphin conservation narratives"
+      ]
+    }
+  },
+
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "Study of Amazonian folklore by Brazilian anthropologists and folklorists; river dolphin conservation efforts linked to cultural beliefs"
+  },
+
+  "sources": [
+    {
+      "id": "amazonian-folklore",
+      "type": "cultural tradition",
+      "title": "Amazonian Oral Traditions",
+      "authors": ["Amazonian communities"],
+      "publication": "Traditional oral transmission",
+      "date": "Colonial era to present"
+    },
+    {
+      "id": "brazilian-folklore",
+      "type": "folklore studies",
+      "title": "Brazilian Folklore Studies",
+      "authors": ["Brazilian folklorists"],
+      "publication": "Various academic sources",
+      "date": "20th-21st century"
+    }
+  ]
+}
