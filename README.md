@@ -1,319 +1,180 @@
 # Encantado
 
-> *"The most charming dancer at the party never removes their hat."*
+> A shapeshifting being of Amazonian Brazilian folklore that lives by day as a pink river dolphin (boto cor-de-rosa) and emerges at night, especially during festivals, in the form of a tall, handsome, white-clad man who seduces women and lures the unwary into the underwater realm of Encante.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Status](https://img.shields.io/badge/status-active-brightgreen)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-documented-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `encantado` |
-| **Category** | SHAPESHIFTER / ENTITY_SPIRIT |
-| **Classification** | Dolphin-people / Animal-to-human transformer |
-| **First Recorded** | Colonial era (indigenous/Portuguese roots) |
-| **Primary Region** | Amazon River basin, Brazil |
-| **Status** | Active folklore |
+| **Category** | SHAPESHIFTER |
+| **Subcategory** | Amazonian river-dolphin shapeshifter |
+| **First recorded** | Pre-contact |
+| **Primary range** | Concentrated in the Brazilian Amazon basin (states of Amazonas, Pará, Acre, Rondônia, Roraima, Amapá), with parallel traditions in adjacent Amazonian regions of Peru, Colombia, Bolivia, Venezuela, and the Guianas |
+| **Status** | documented |
 
 ---
-
 ## Overview
 
-The Encantado are shapeshifting beings from Brazilian Amazon folklore who live as dolphins (usually pink river dolphins) but transform into beautiful humans at night. In human form, they appear as handsome men or beautiful women who are perfect dancers and party-goers, but they must always wear hats to hide their blowholes.
-
-They emerge from rivers during festivals and parties to seduce humans, with male Encantado often impregnating women and female Encantado seducing men. They may lure people to their underwater kingdom known as Encante.
-
-Unexplained pregnancies in Amazonian communities are traditionally blamed on Encantado, and children born under mysterious circumstances may be said to bear the Encantado's mark. Out of respect, river dolphins should never be called "dolphins" but rather "boto," and it is dangerous to make eye contact with them during festivals.
-
-The Encantado represent the mystery and allure of the Amazon rivers and embody both indigenous and Portuguese cultural influences.
+The Encantado is a class of shapeshifting being central to the folklore of the Brazilian Amazon. By day the Encantado lives as a boto cor-de-rosa, the Amazon river dolphin (Inia geoffrensis); at night, especially during festas (festivals) along the Amazon and its tributaries, it transforms into a tall, handsome, well-dressed man — typically wearing white and a hat to conceal his blowhole — who seduces women, fathers children, and may carry the unwary into Encante, an underwater paradise from which there is no easy return. The legend functions in part as a culturally accepted explanation for the unwanted, scandalous, or unaccountable pregnancies of women in remote river communities. Killing or eating a boto is held to bring lasting bad luck. The figure synthesizes Indigenous Amazonian (Tupi-Guarani) traditions of river-spirits with Portuguese-Catholic narrative forms, and is one of the most widely recognized supernatural figures in northern Brazil. The Wikipedia article on Boto cites Juliette Wood's 'Fantastic Creatures in Mythology and Folklore' (Bloomsbury, 2018, p. 62) as the standard scholarly reference for the legend.
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| Boto cor-de-rosa | Portuguese / Brazilian Amazon | 'Pink boto'; the Amazon river dolphin in its mythical aspect |
+| Boto | Portuguese / Brazilian Amazon | Common name for Inia geoffrensis, the Amazon river dolphin |
+| Bufeo colorado | Spanish / Peruvian and Colombian Amazon |  |
 
-### Primary Name
-- **Encantado** — Portuguese for "enchanted one" or "one who enchants"
+## Etymology
 
-### Alternative Names
-- **Boto** — Respectful term for river dolphins; must be used instead of "dolphin"
-- **Boto Cor-de-Rosa** — "Pink dolphin" in Portuguese
-
----
-
-## Classification
-
-### Taxonomy
-```
-Category: SHAPESHIFTER
-├── Type: Animal-to-human transformer
-├── Subtype: Dolphin-people
-└── Variant: Amazonian/Brazilian
-```
-
-### Related Phenomena
-
-| Phenomenon | Relationship | Description |
-|------------|--------------|-------------|
-| [Selkie](/selkie) | Similar | Celtic seal-people shapeshifters |
-| [Kitsune](/kitsune) | Similar | Japanese fox shapeshifters |
-| [Each-uisge](/each-uisge) | Similar | Scottish water horse that drowns victims |
-| [Siren](/siren) | Similar | Water beings who seduce humans |
+- **Origin**: Portuguese 'encantado', past participle of 'encantar' ('to enchant'), used in Brazilian Amazonian Portuguese as a noun for an enchanted being.
+- **Meaning**: 'Encantado' literally means 'enchanted one'; 'boto cor-de-rosa' means 'pink boto', the dolphin's mythic aspect.
+- **First use**: Long-standing oral tradition in Amazonian Brazil; documented in 19th- and 20th-century Brazilian folklore studies.
 
 ---
+## Related Phenomena
 
-## Characteristics
+- [Boto (Amazon river dolphin)](../boto/) — _related_: The biological species (Inia geoffrensis) on which the legend is grounded.
+- [Selkie](../selkie/) — _similar_: Scottish folkloric seal-people who shift between animal and human form; structurally similar to the Encantado.
+- [Yacumama](../yacumama/) — _related_: Other Amazonian water-spirit tradition.
+- [Kelpie](../kelpie/) — _similar_: Scottish water-horse shapeshifter; comparable role as a seducer and drowner.
 
-### Dolphin Form
+---
+## Physical Description
 
-| Attribute | Description |
-|-----------|-------------|
-| **Species** | Pink river dolphin (*Inia geoffrensis*) usually |
-| **Coloration** | Pink or gray |
-| **Appearance** | Standard river dolphin |
+- **Morphology**: Dual-form being: alternates between the body of the Amazon river dolphin and that of a tall, charismatic human. The blowhole is the diagnostic detail that allegedly persists across the change.
 
-### Human Form
-
-| Attribute | Description | Frequency |
-|-----------|-------------|-----------|
-| **Height** | 1.6 - 1.85 meters (5.2 - 6 feet) | Medium |
-| **Beauty** | Handsome men or beautiful women | Always |
-| **Hat** | Must always wear to cover blowhole | Always |
-| **Dancing** | Perfect dancers, life of the party | Always |
-| **Charm** | Extremely charming and seductive | Always |
-
-### Distinguishing Features
+### Features
 
 | Feature | Description | Frequency |
-|---------|-------------|-----------|
-| Blowhole | Dolphin blowhole on top of head (must hide) | Always |
-| Hat | Never removes hat in human form | Always |
-| Beauty | Irresistibly attractive appearance | Always |
-| Dancing skill | Outstanding, attention-drawing ability | Always |
-| Party presence | Always found at festivals and gatherings | Always |
+|---|---|---|
+| Pink river dolphin (animal form) | By day appears as Inia geoffrensis, the pink Amazon river dolphin, varying from grey to vivid pink as it ages. | always |
+| Tall, handsome man (human form) | By night appears as a tall, charismatic, well-dressed man, typically in white. | always |
+| Hat covering blowhole | In human form he wears a hat at all times in order to hide the blowhole that remains on the top of his head. | always |
+| Hypnotic charm | Possesses an extraordinary capacity for charm, dance, and conversation. | common |
 
-### Reported Abilities
+## Reported Abilities
 
-| Ability | Description | Evidence Level |
-|---------|-------------|----------------|
-| Shape-shifting | Transform dolphin to human at night | Folklore |
-| Seduction | Irresistible charm and beauty | Folklore |
-| Perfect dancing | Outstanding skills that attract attention | Folklore |
-| Underwater living | Lives in kingdom called Encante | Folklore |
-| Luring victims | Can lure humans to underwater realm | Folklore |
-| Impregnation | Male Encantado can impregnate women | Folklore |
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Animal-human shapeshifting | Transforms between dolphin and human forms; the change is most often reported at festivals and at the riverbank. | always | folklore |
+| Seduction | Charms and seduces human partners — most often women in river-bank communities — at festivals or after sundown. | always | folklore |
+| Conducting victims to Encante | Can lead lone bathers, children, and lovers to the underwater kingdom of Encante from which they do not return. | common | folklore |
+| Curse on hunters | Killing or eating an Amazon river dolphin is held to bring severe and lasting bad luck. | always | folklore |
 
-### Behavioral Patterns
+## Behavior
 
-- **Activity Period**: Night (human form); day (dolphin form)
-- **Disposition**: Seductive, mischievous, playful
-- **Social Structure**: Community (underwater kingdom)
-- **Habitat Preference**: Rivers, underwater kingdom (Encante), human parties
-- **Transformation Time**: Night for parties, must return by dawn
-
-### The Hat
-
-The Encantado's most critical feature in human form:
-- **Must always wear a hat** to cover the blowhole
-- **Removing the hat** reveals their true identity
-- **Traditional warning**: Beware the charming stranger who won't remove their hat
-- **Detection method**: Watch for someone who dances but never removes headwear
+- **Activity**: nocturnal
+- **Disposition**: curious
+- **Social structure**: variable
+- **Habitat**: Amazon and Solimões rivers, Rio Negro, river-bank communities, festivals (festas) along the rivers
+- **Diet**: As a dolphin, fish; as a human, the food and drink of festivals.
 
 ---
+## Distribution
 
-## Geographic Distribution
+Concentrated in the Brazilian Amazon basin (states of Amazonas, Pará, Acre, Rondônia, Roraima, Amapá), with parallel traditions in adjacent Amazonian regions of Peru, Colombia, Bolivia, Venezuela, and the Guianas.
 
-### Primary Range
+### Hotspots
 
-**Amazon River basin**: Brazil, Peru, Colombia, Venezuela - wherever pink river dolphins are found.
-
-**Key Regions**:
-- Brazilian Amazon
-- Rio Negro
-- Rio Solimões
-- Amazon tributaries
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| Mid- and Upper-Amazon riverbank communities | Amazonas / Pará, Brazil |  | Long-standing oral tradition through to present |
 
 ---
-
 ## Historical Timeline
 
-### Origins
-
-Brazilian Amazon folklore blending:
-1. **Indigenous Amazonian** river dolphin beliefs
-2. **Portuguese colonial** "encantado" (enchanted being) concepts
-3. **Caboclo culture** (mixed indigenous-European communities)
-
-### Key Events
-
 | Date | Event | Significance |
-|------|-------|--------------|
-| Pre-colonial | Indigenous dolphin beliefs | Spiritual relationship with river dolphins |
-| Colonial era | Portuguese influence | "Encantado" concept merges with indigenous beliefs |
-| Modern era | Living folklore | Active in culture and dolphin conservation |
+|---|---|---|
+| Pre-contact | Tupi-Guarani river-spirit traditions establish the conceptual basis for boto-as-shapeshifter narratives | Indigenous baseline of the legend |
+| 1947-01-01 | Luís da Câmara Cascudo's 'Geografia dos Mitos Brasileiros' (1947) systematizes the figure within Brazilian folklore | Major 20th-century scholarly treatment |
+| 2018-01-01 | Juliette Wood's 'Fantastic Creatures in Mythology and Folklore' (Bloomsbury, 2018) summarizes the boto cor-de-rosa legend in English-language reference literature | Standard contemporary English-language reference |
 
-### Modern Era
+## Evidence
 
-The Encantado remains deeply embedded in Amazonian culture. Unexplained pregnancies are still sometimes attributed to Encantado, and respect for river dolphins ("boto") continues. The legend plays a role in dolphin conservation, as harming a boto is considered dangerous and disrespectful.
+### Documentary
 
----
-
-## Traditional Stories
-
-### Classic Encounters
-
-1. **The Party Guest**
-   Handsome stranger appears at festival, dances perfectly, seduces young woman, disappears by dawn. Hat falls off revealing blowhole.
-
-2. **The Mysterious Pregnancy**
-   Woman becomes pregnant by charming lover who always wore a hat and disappeared before sunrise. Child may have distinctive marks.
-
-3. **The Underwater Kingdom**
-   Person lured by beautiful Encantado to underwater palace (Encante). Some never return; others return changed.
-
-4. **The Eye Contact**
-   Making eye contact with a dolphin during a festival invites Encantado attention - the dolphin may transform and pursue you.
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Wood, Fantastic Creatures (2018) | 2018 | Reference summary of the boto-cor-de-rosa legend in Juliette Wood's 'Fantastic Creatures in Mythology and Folklore' (Bloomsbury, 2018, p. 62). | verified |
 
 ---
-
-## Cultural Significance
-
-### Amazonian Cultural Role
-
-> ⚠️ **Cultural Sensitivity Note**: The Encantado is part of living Amazonian culture, serving important social and conservation functions. These are not merely stories but active folklore.
-
-**Social Functions**:
-- **Pregnancy explanation**: Provides non-shameful attribution for illegitimate pregnancies
-- **Social cohesion**: Shared cultural identity across Amazon communities
-- **Moral teaching**: Warnings about seduction and unknown strangers
-- **Conservation**: Promotes respect and protection for endangered river dolphins
-
-### Traditional Beliefs & Practices
-
-**Respect for Boto**:
-- Never call river dolphins "dolphins" - always use **"boto"**
-- Harming a boto brings bad luck or revenge
-- Dolphins are enchanted beings deserving reverence
-
-**Protections**:
-- Avoid eye contact with dolphins during festivals
-- Be wary of charming strangers who won't remove hats
-- Watch for those who dance too perfectly
-- Return home before dawn
-
-**Pregnancy Attribution**:
-- Unexplained pregnancies attributed to Encantado seduction
-- Children may be said to bear Encantado marks
-- Provides social mechanism for complex situations
-
-### Conservation Connection
-
-The Encantado legend supports river dolphin conservation:
-- **Taboo against harming** boto (enchanted beings)
-- **Respect for river dolphins** embedded in culture
-- **Modern conservation** builds on traditional reverence
-- **Amazon pink river dolphins** are endangered; folklore helps protect them
-
-### Popular Culture
-
-**Literature & Art**:
-- Brazilian poetry and prose
-- Amazonian folklore collections
-- Contemporary Brazilian art
-
-**Other**:
-- Cultural festivals featuring Encantado themes
-- Dolphin tourism connected to folklore
-- Conservation narratives
-
----
-
 ## Theories & Explanations
 
-### Cultural Interpretations
+### Paranormal / Cryptozoological
 
-1. **Social Explanation for Pregnancy**
-   Cultural mechanism to explain illegitimate pregnancies without shame, protecting women and children from social stigma.
+**Genuine Amazonian shapeshifter** _(Amazonian oral tradition)_
 
-2. **Cultural Synthesis Myth**
-   Blend of indigenous river dolphin reverence with Portuguese "enchanted being" concepts from colonial period.
+Within the lived folklore of the Amazon, the Encantado is treated as a real being whose seductions and abductions explain otherwise unaccountable events along the rivers.
 
-3. **Conservation Folklore**
-   Stories that promote protection of endangered pink river dolphins by making them sacred/respected.
+### Skeptical
 
-4. **Spiritual Entity**
-   Traditional Amazonian perspective: genuine shapeshifting beings from indigenous cosmology.
+**Social explanatory device for pregnancies** _(Brazilian and English-language folklorists)_
 
----
+The legend serves, among other functions, as a culturally accepted cover story for unwanted, premarital, or otherwise stigmatized pregnancies in remote communities.
 
-## The Underwater Kingdom (Encante)
+**Conservation-oriented taboo** _(Conservation biologists working in the Amazon)_
 
-The Encantado live in an underwater realm called **Encante**:
-- **Beautiful palace** beneath the rivers
-- **Enchanted community** of dolphin-people
-- **Parallel world** to human Amazon
-- **Dangerous to visit** - humans may never return
-- **Represents** the mystery and power of Amazon waters
+Beliefs that killing or eating a boto brings bad luck function as a folkloric conservation mechanism for the endangered Amazon river dolphin.
 
----
 
-## Warnings & Protection
+## Indigenous Perspectives
 
-### Traditional Warnings
+> ⚠️ **The legend is a living tradition rather than an historical curiosity; its use in cover-story narratives can intersect with serious questions of consent and gender violence in local communities, and should be discussed with care.**
 
-1. **At parties/festivals**: Beware charming strangers who won't remove hats
-2. **Eye contact**: Don't make eye contact with dolphins during celebrations
-3. **Dancing**: Suspiciously perfect dancers may be Encantado
-4. **Dawn**: Encantado must return to river by sunrise
-5. **Seduction**: Resist mysterious, irresistible attraction
+**Cultures**: Tupi-Guarani-speaking peoples of the Amazon, Riberinho (river-bank) communities of mixed Indigenous and Lusophone heritage
 
----
+The Encantado is grounded in Indigenous river-spirit traditions and remains an active part of the cultural and spiritual life of riberinho communities, intersecting with conservation and gender norms.
 
-## Respect & Cultural Guidelines
+_Guidelines: Cite Brazilian and Indigenous scholars where possible; avoid sensationalizing the figure as a generic 'cryptid'._
 
-When engaging with Encantado folklore:
+## Popular Culture
 
-1. **Acknowledge Amazonian ownership** of this cultural tradition
-2. **Understand social function** - not just entertainment
-3. **Respect conservation connection** to endangered dolphins
-4. **Recognize living tradition** - actively used and believed
-5. **Support dolphin conservation** linked to cultural beliefs
-6. **Use proper terminology**: "boto" not "dolphin"
+**Literature**: Geografia dos Mitos Brasileiros — Luís da Câmara Cascudo (1947); Fantastic Creatures in Mythology and Folklore — Juliette Wood (2018)
+
+**Film / TV**: Brazilian telenovelas and films featuring the boto cor-de-rosa as a romantic / supernatural figure
+
+**Music**: Numerous Brazilian regional songs reference the boto cor-de-rosa and Encantado
+
+**Other**: Conservation campaigns for Inia geoffrensis that draw on the cultural taboo against harming the boto
 
 ---
+## Research
 
-## API Reference
+### Researchers
 
-Machine-readable data is available in [`api.json`](api.json).
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Luís da Câmara Cascudo | Brazilian folklorist | Major 20th-century systematization of Brazilian folklore including the boto / Encantado | 1940s–1980s |
+| Juliette Wood | Cardiff University (Folklore Society UK) | English-language reference summary of the boto-cor-de-rosa legend (2018) | 2010s |
 
-### Direct Access
+### Organizations
 
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/encantado/main/api.json
-```
+- [Instituto Mamirauá](https://www.mamiraua.org.br) — Amazon biodiversity research, including Inia geoffrensis and associated cultural traditions
 
----
-
-## Sources & References
-
-See [SOURCES.md](SOURCES.md) for complete bibliography.
+Active ethnographic and conservation research links the Encantado tradition to social practice and to Amazon-river-dolphin conservation.
 
 ---
+## Sources
 
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
+
+
+## How to Report a Sighting
+
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
+
+---
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-[Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._

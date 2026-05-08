@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
+    "last_updated": "2026-05-07",
     "repository": "https://github.com/wyrdness/encantado",
     "maintainers": [
       {
@@ -16,111 +16,258 @@
       "content": "CC-BY-4.0"
     }
   },
+
   "phenomenon": {
     "id": "encantado",
     "name": "Encantado",
-    "aliases": [],
+    "aliases": [
+      { "name": "Boto cor-de-rosa", "language": "Portuguese", "region": "Brazilian Amazon", "meaning": "'Pink boto'; the Amazon river dolphin in its mythical aspect" },
+      { "name": "Boto", "language": "Portuguese", "region": "Brazilian Amazon", "meaning": "Common name for Inia geoffrensis, the Amazon river dolphin" },
+      { "name": "Bufeo colorado", "language": "Spanish", "region": "Peruvian and Colombian Amazon" }
+    ],
     "category": "SHAPESHIFTER",
-    "subcategory": "Dolphin-people",
+    "subcategory": "Amazonian river-dolphin shapeshifter",
     "tags": [
+      "shapeshifter",
+      "south-america",
+      "brazil",
+      "amazon",
+      "river-dolphin",
       "folklore",
-      "mythology"
+      "seducer"
     ],
     "status": "documented",
     "description": {
-      "summary": "The Encantado are shapeshifting beings from Brazilian Amazon folklore who live as dolphins (usually pink river dolphins) but transform into beautiful humans at night.",
-      "full": "The Encantado are shapeshifting beings from Brazilian Amazon folklore who live as dolphins (usually pink river dolphins) but transform into beautiful humans at night. In human form, they appear as handsome men or beautiful women who are perfect dancers and party-goers, but they must always wear hats to hide their blowholes. They emerge from rivers during festivals and parties to seduce humans, with male Encantado often impregnating women and female Encantado seducing men. They may lure people to their underwater kingdom known as Encante. Unexplained pregnancies in Amazonian communities are traditionally blamed on Encantado, and children born under mysterious circumstances may be said to bear the Encantado's mark. Out of respect, river dolphins should never be called \\\"dolphins\\\" but rather \\\"boto,\\\" and it is dangerous to make eye contact with them during festivals. The Encantado represent the mystery and allure of the Amazon rivers and embody both indigenous and Portuguese cultural influences."
+      "summary": "A shapeshifting being of Amazonian Brazilian folklore that lives by day as a pink river dolphin (boto cor-de-rosa) and emerges at night, especially during festivals, in the form of a tall, handsome, white-clad man who seduces women and lures the unwary into the underwater realm of Encante.",
+      "full": "The Encantado is a class of shapeshifting being central to the folklore of the Brazilian Amazon. By day the Encantado lives as a boto cor-de-rosa, the Amazon river dolphin (Inia geoffrensis); at night, especially during festas (festivals) along the Amazon and its tributaries, it transforms into a tall, handsome, well-dressed man — typically wearing white and a hat to conceal his blowhole — who seduces women, fathers children, and may carry the unwary into Encante, an underwater paradise from which there is no easy return. The legend functions in part as a culturally accepted explanation for the unwanted, scandalous, or unaccountable pregnancies of women in remote river communities. Killing or eating a boto is held to bring lasting bad luck. The figure synthesizes Indigenous Amazonian (Tupi-Guarani) traditions of river-spirits with Portuguese-Catholic narrative forms, and is one of the most widely recognized supernatural figures in northern Brazil. The Wikipedia article on Boto cites Juliette Wood's 'Fantastic Creatures in Mythology and Folklore' (Bloomsbury, 2018, p. 62) as the standard scholarly reference for the legend."
     },
     "etymology": {
-      "origin": "Unknown",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
+      "origin": "Portuguese 'encantado', past participle of 'encantar' ('to enchant'), used in Brazilian Amazonian Portuguese as a noun for an enchanted being.",
+      "meaning": "'Encantado' literally means 'enchanted one'; 'boto cor-de-rosa' means 'pink boto', the dolphin's mythic aspect.",
+      "first_use": "Long-standing oral tradition in Amazonian Brazil; documented in 19th- and 20th-century Brazilian folklore studies."
     }
   },
+
   "classification": {
     "taxonomy": {
       "category": "SHAPESHIFTER",
-      "type": "Dolphin-people",
-      "subtype": "Unknown",
-      "variant": "Unknown"
+      "type": "Animal-form shapeshifter",
+      "subtype": "River-dolphin to human",
+      "variant": "Brazilian Amazon (Tupi-Guarani / Lusophone syncretism)"
     },
-    "related_phenomena": []
+    "related_phenomena": [
+      { "id": "boto", "name": "Boto (Amazon river dolphin)", "relationship": "related", "description": "The biological species (Inia geoffrensis) on which the legend is grounded." },
+      { "id": "selkie", "name": "Selkie", "relationship": "similar", "description": "Scottish folkloric seal-people who shift between animal and human form; structurally similar to the Encantado." },
+      { "id": "yacumama", "name": "Yacumama", "relationship": "related", "description": "Other Amazonian water-spirit tradition." },
+      { "id": "kelpie", "name": "Kelpie", "relationship": "similar", "description": "Scottish water-horse shapeshifter; comparable role as a seducer and drowner." }
+    ]
   },
+
   "characteristics": {
     "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
+      "features": [
+        { "feature": "Pink river dolphin (animal form)", "description": "By day appears as Inia geoffrensis, the pink Amazon river dolphin, varying from grey to vivid pink as it ages.", "frequency": "always" },
+        { "feature": "Tall, handsome man (human form)", "description": "By night appears as a tall, charismatic, well-dressed man, typically in white.", "frequency": "always" },
+        { "feature": "Hat covering blowhole", "description": "In human form he wears a hat at all times in order to hide the blowhole that remains on the top of his head.", "frequency": "always" },
+        { "feature": "Hypnotic charm", "description": "Possesses an extraordinary capacity for charm, dance, and conversation.", "frequency": "common" }
+      ],
+      "morphology": "Dual-form being: alternates between the body of the Amazon river dolphin and that of a tall, charismatic human. The blowhole is the diagnostic detail that allegedly persists across the change."
     },
-    "abilities": [],
+    "abilities": [
+      { "ability": "Animal-human shapeshifting", "description": "Transforms between dolphin and human forms; the change is most often reported at festivals and at the riverbank.", "frequency": "always", "evidence_level": "folklore" },
+      { "ability": "Seduction", "description": "Charms and seduces human partners — most often women in river-bank communities — at festivals or after sundown.", "frequency": "always", "evidence_level": "folklore" },
+      { "ability": "Conducting victims to Encante", "description": "Can lead lone bathers, children, and lovers to the underwater kingdom of Encante from which they do not return.", "frequency": "common", "evidence_level": "folklore" },
+      { "ability": "Curse on hunters", "description": "Killing or eating an Amazon river dolphin is held to bring severe and lasting bad luck.", "frequency": "always", "evidence_level": "folklore" }
+    ],
     "behavior": {
-      "activity_period": "unknown",
-      "disposition": "unknown",
-      "habitat_preference": []
+      "activity_period": "nocturnal",
+      "disposition": "curious",
+      "social_structure": "variable",
+      "habitat_preference": ["Amazon and Solimões rivers", "Rio Negro", "river-bank communities", "festivals (festas) along the rivers"],
+      "diet": "As a dolphin, fish; as a human, the food and drink of festivals.",
+      "patterns": [
+        "Active at night, particularly during local festivals (festa junina, river-festivals)",
+        "Targets young women, but also impressionable men in some variants",
+        "Most readily encountered along the riverbank or at the edge of a festa",
+        "Always wears a hat in human form to conceal the blowhole"
+      ]
     }
   },
+
   "distribution": {
     "range": {
-      "description": "Unknown",
-      "continents": [],
-      "countries": [],
-      "regions": []
+      "description": "Concentrated in the Brazilian Amazon basin (states of Amazonas, Pará, Acre, Rondônia, Roraima, Amapá), with parallel traditions in adjacent Amazonian regions of Peru, Colombia, Bolivia, Venezuela, and the Guianas.",
+      "continents": ["South America"],
+      "countries": ["Brazil", "Peru", "Colombia", "Bolivia", "Venezuela"],
+      "regions": ["Amazon basin", "Solimões–Amazon corridor", "Rio Negro", "Marajó region"]
     },
-    "hotspots": [],
+    "hotspots": [
+      {
+        "name": "Mid- and Upper-Amazon riverbank communities",
+        "location": {
+          "description": "Riverbank settlements along the main Amazon, Solimões, and Rio Negro corridors of northern Brazil",
+          "country": "Brazil",
+          "region": "Amazonas / Pará"
+        },
+        "peak_period": "Long-standing oral tradition through to present",
+        "notes": "Encantado encounters are reported in association with festas in riverbank towns and villages."
+      }
+    ],
     "temporal": {
       "first_recorded": {
-        "date": "Unknown",
+        "date": "Pre-contact",
         "circa": true,
-        "source": "Traditional folklore"
+        "source": "Indigenous Amazonian oral traditions; the boto-as-shapeshifter motif is rooted in Tupi-Guarani river-spirit beliefs predating Portuguese contact"
       }
     }
   },
+
   "history": {
     "origins": {
-      "cultural_roots": "Unknown",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
+      "cultural_roots": "Synthesis of Indigenous Amazonian (Tupi-Guarani) river-spirit traditions with Portuguese-Catholic narrative conventions, developed in the colonial and post-colonial Amazon.",
+      "earliest_accounts": "Long-standing oral tradition in Amazonian Brazil; recorded in 19th- and 20th-century Brazilian folklore studies, including work by Câmara Cascudo and others.",
+      "folklore_connections": "Connected to a wider Amazonian water-spirit ecology (Cobra Grande, Yara, Mãe-d'Água) and to the global pattern of animal-bride / animal-groom shapeshifters (selkies, kelpies, swan-maidens)."
     },
-    "timeline": []
+    "timeline": [
+      { "date": "Pre-contact", "event": "Tupi-Guarani river-spirit traditions establish the conceptual basis for boto-as-shapeshifter narratives", "significance": "Indigenous baseline of the legend", "source": "Brazilian folklore scholarship" },
+      { "date": "1947-01-01", "event": "Luís da Câmara Cascudo's 'Geografia dos Mitos Brasileiros' (1947) systematizes the figure within Brazilian folklore", "significance": "Major 20th-century scholarly treatment", "source": "Câmara Cascudo (1947)" },
+      { "date": "2018-01-01", "event": "Juliette Wood's 'Fantastic Creatures in Mythology and Folklore' (Bloomsbury, 2018) summarizes the boto cor-de-rosa legend in English-language reference literature", "significance": "Standard contemporary English-language reference", "source": "Wood (2018)" }
+    ],
+    "modern_era": "The Encantado remains a living folklore tradition in northern Brazil, invoked in popular music, telenovelas, and tourism, and increasingly enlisted in conservation campaigns aimed at protecting the endangered Amazon river dolphin."
   },
+
   "sightings": {
     "statistics": {
       "total_documented": 0,
       "verified": 0,
       "disputed": 0,
-      "debunked": 0
+      "debunked": 0,
+      "date_range": { "earliest": "Pre-contact", "latest": "Contemporary" }
     },
     "notable": [],
     "database_path": "./sightings/"
   },
+
   "evidence": {
     "physical": [],
     "photographic": [],
     "video": [],
     "audio": [],
-    "trace": []
+    "trace": [],
+    "documentary": [
+      {
+        "id": "encantado-evidence-wood-2018",
+        "type": "encyclopedia entry",
+        "name": "Wood, Fantastic Creatures (2018)",
+        "date": "2018",
+        "description": "Reference summary of the boto-cor-de-rosa legend in Juliette Wood's 'Fantastic Creatures in Mythology and Folklore' (Bloomsbury, 2018, p. 62).",
+        "status": "verified",
+        "analysis": "Standard contemporary English-language reference cited by Wikipedia.",
+        "source": "Wood, J. (2018), Fantastic Creatures in Mythology and Folklore"
+      }
+    ]
   },
+
   "theories": {
-    "paranormal": [],
+    "paranormal": [
+      {
+        "name": "Genuine Amazonian shapeshifter",
+        "description": "Within the lived folklore of the Amazon, the Encantado is treated as a real being whose seductions and abductions explain otherwise unaccountable events along the rivers.",
+        "proponents": ["Amazonian oral tradition"],
+        "evidence_cited": ["Cultural narratives of pregnancies attributed to the boto", "Local taboos against killing or eating river dolphins"]
+      }
+    ],
     "scientific": [],
-    "skeptical": []
+    "skeptical": [
+      {
+        "name": "Social explanatory device for pregnancies",
+        "description": "The legend serves, among other functions, as a culturally accepted cover story for unwanted, premarital, or otherwise stigmatized pregnancies in remote communities.",
+        "proponents": ["Brazilian and English-language folklorists"],
+        "evidence_cited": ["Wikipedia (citing Wood, 2018) explicitly notes the use of the legend as a cover for unwanted pregnancies", "Contemporary ethnographic reports from Amazonian Brazil"]
+      },
+      {
+        "name": "Conservation-oriented taboo",
+        "description": "Beliefs that killing or eating a boto brings bad luck function as a folkloric conservation mechanism for the endangered Amazon river dolphin.",
+        "proponents": ["Conservation biologists working in the Amazon"],
+        "evidence_cited": ["Persistence of strong taboos against harming the boto", "Use of the legend in modern conservation messaging"]
+      }
+    ]
   },
+
   "cultural": {
     "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
+      "traditions": [
+        "Brazilian Amazonian river-folk oral tradition",
+        "Tupi-Guarani river-spirit traditions",
+        "Festas juninas and other riverbank festivals"
+      ],
+      "stories": [
+        "A handsome man in white appears at a riverbank festival, dances with a young woman, and disappears at dawn; she later proves to be pregnant",
+        "Lone bathers vanish into the river and are said to have been taken to Encante",
+        "Hunters who kill river dolphins suffer enduring misfortune"
+      ],
+      "beliefs": "River dolphins are addressed as 'boto', not as 'dolphins', and are not to be killed or eaten; eye contact with a boto at a festival is to be avoided."
+    },
+    "indigenous": {
+      "cultures": ["Tupi-Guarani-speaking peoples of the Amazon", "Riberinho (river-bank) communities of mixed Indigenous and Lusophone heritage"],
+      "significance": "The Encantado is grounded in Indigenous river-spirit traditions and remains an active part of the cultural and spiritual life of riberinho communities, intersecting with conservation and gender norms.",
+      "sensitivity_note": "The legend is a living tradition rather than an historical curiosity; its use in cover-story narratives can intersect with serious questions of consent and gender violence in local communities, and should be discussed with care.",
+      "respect_guidelines": "Cite Brazilian and Indigenous scholars where possible; avoid sensationalizing the figure as a generic 'cryptid'."
     },
     "popular_culture": {
-      "literature": [],
-      "film_tv": [],
+      "literature": [
+        "Geografia dos Mitos Brasileiros — Luís da Câmara Cascudo (1947)",
+        "Fantastic Creatures in Mythology and Folklore — Juliette Wood (2018)"
+      ],
+      "film_tv": [
+        "Brazilian telenovelas and films featuring the boto cor-de-rosa as a romantic / supernatural figure"
+      ],
       "games": [],
-      "other": []
+      "music": [
+        "Numerous Brazilian regional songs reference the boto cor-de-rosa and Encantado"
+      ],
+      "other": [
+        "Conservation campaigns for Inia geoffrensis that draw on the cultural taboo against harming the boto"
+      ]
     }
   },
+
   "research": {
-    "researchers": [],
-    "organizations": [],
-    "ongoing_studies": "None documented"
+    "researchers": [
+      { "name": "Luís da Câmara Cascudo", "affiliation": "Brazilian folklorist", "contribution": "Major 20th-century systematization of Brazilian folklore including the boto / Encantado", "period": "1940s–1980s" },
+      { "name": "Juliette Wood", "affiliation": "Cardiff University (Folklore Society UK)", "contribution": "English-language reference summary of the boto-cor-de-rosa legend (2018)", "period": "2010s" }
+    ],
+    "organizations": [
+      { "name": "Instituto Mamirauá", "url": "https://www.mamiraua.org.br", "focus": "Amazon biodiversity research, including Inia geoffrensis and associated cultural traditions" }
+    ],
+    "ongoing_studies": "Active ethnographic and conservation research links the Encantado tradition to social practice and to Amazon-river-dolphin conservation."
   },
-  "sources": []
+
+  "sources": [
+    {
+      "id": "wikipedia-boto",
+      "type": "website",
+      "title": "Boto",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boto",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wood-2018",
+      "type": "book",
+      "title": "Fantastic Creatures in Mythology and Folklore: From Medieval Times to the Present Day",
+      "authors": ["Juliette Wood"],
+      "publication": "Bloomsbury Publishing, London",
+      "date": "2018",
+      "pages": "62"
+    },
+    {
+      "id": "camara-cascudo-1947",
+      "type": "book",
+      "title": "Geografia dos Mitos Brasileiros",
+      "authors": ["Luís da Câmara Cascudo"],
+      "publication": "José Olympio, Rio de Janeiro",
+      "date": "1947"
+    }
+  ]
 }
